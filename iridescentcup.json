@@ -1,6 +1,6 @@
 {
 	"Name": "iridescentcup",
-	"Version": 1777491179,
+	"Version": 1780785195,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -468,6 +468,7 @@
 				"264",
 				"265",
 				"161",
+				"205",
 				"212",
 				"218",
 				"223",
@@ -518,6 +519,10 @@
 				[
 					"254",
 					"96"
+				],
+				[
+					"113",
+					"55"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -715,6 +720,10 @@
 				[
 					"254",
 					"96"
+				],
+				[
+					"113",
+					"55"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -919,6 +928,10 @@
 				[
 					"254",
 					"96"
+				],
+				[
+					"113",
+					"55"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -4305,9 +4318,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"34",
-				"65",
-				"112"
+				"34"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
