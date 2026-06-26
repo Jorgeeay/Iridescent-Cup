@@ -1,6 +1,6 @@
 {
 	"Name": "iridescentcup",
-	"Version": 1780785195,
+	"Version": 1782444593,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -4332,6 +4332,94 @@
 				836,
 				832,
 				825
+			],
+			"ItemWhitelist": [
+				0,
+				5,
+				8,
+				15
+			],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": [
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				},
+				"Med-Kit": {
+					"Addons": [
+						0,
+						1,
+						2
+					]
+				},
+				"Toolbox": {
+					"Addons": [
+						0,
+						2
+					]
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [
+				2,
+				3,
+				5
+			],
+			"KillerOfferings": [
+				0,
+				1
+			]
+		},
+		{
+			"Name": "The Slasher",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				2
+			],
+			"SurvivorBalanceTiers": [
+				2
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [
+				851,
+				855,
+				846,
+				845,
+				852,
+				856,
+				853
 			],
 			"ItemWhitelist": [
 				0,
